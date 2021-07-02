@@ -1,0 +1,101 @@
+.full {
+    background-color: #3498db;
+    height: 120vh;
+    width: 1024px;
+    padding-top: 50px;
+    padding-right: 100px;
+    padding-left: 100px;
+    padding-bottom: 50px;
+    margin: 0 auto;
+    border-radius: 5px;
+}
+
+.main {
+    height: 110vh;
+    background-color: white;
+    border: 1px solid white;
+    border-radius: 10px;
+    box-shadow: 0 15px 20px black;
+}
+
+.head {
+    background-color: rgb(241, 218, 218);
+    padding: 30px;
+    text-align: center;
+    border-radius: 10px;
+    font-size: 30px;
+    font-family: 'Playfair Display', serif;
+    ;
+}
+
+div.banner {
+    background-color: whitesmoke;
+    display: block;
+    text-align: center;
+    padding: 30px;
+}
+
+.contain h2 {
+    color: #34495e;
+    font-family: 'Playfair Display', serif;
+    ;
+}
+
+div.contain {
+    padding: 10px;
+    text-align: justify;
+}
+
+div.iii img {
+    width: 400px;
+    height: 200px;
+    float: right;
+    padding: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: #4b6584;
+}
+
+a:hover {
+    color: rgb(255, 0, 255);
+    transition: .5s;
+    cursor: pointer;
+}
+
+div.iii img:hover {
+    opacity: .7;
+    transition: .5s;
+}
+
+div.follow {
+    font-size: 40px;
+    color: rgb(24, 184, 247);
+    padding: 10px;
+    text-align: center;
+}
+
+.fa-facebook:hover {
+    color: rgb(0, 63, 122);
+    transition: .3s;
+}
+
+.fa-facebook-messenger:hover {
+    color: rgb(16, 90, 230);
+    transition: .3s;
+}
+
+.fa-instagram:hover {
+    color: rgb(62, 62, 243);
+    transition: .3s;
+}
+
+.fa-twitter:hover {
+    color: rgb(6, 73, 116);
+}
+
+.fa-telegram:hover {
+    color: rgb(3, 29, 44);
+    transition: .3s;
+}
